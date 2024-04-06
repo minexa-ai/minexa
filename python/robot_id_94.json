@@ -1,0 +1,3179 @@
+{
+    "request": {
+        "scraping": {
+            "js_render": false,
+            "provider": "service2",
+            "timeout": 10,
+            "country": "us",
+            "retry": 3
+        },
+        "options": "",
+        "look_for": "Features",
+        "mode": "detail",
+        "urls": [
+            "https://www.flipkart.com/poco-c55-power-black-64-gb/p/itme567bcd596fe9?pid=MOBGMXSW9PHJVQCA&lid=LSTMOBGMXSW9PHJVQCALTZQ3D&marketplace=FLIPKART&q=smartphones&store=tyy%2F4io&srno=s_1_1&otracker=search&iid=c94adc80-db28-4f7e-b937-89b19b183c9d.MOBGMXSW9PHJVQCA.SEARCH&ssid=pyee4mlzm80000001711995480426&qH=6ea4465d0add4685",
+            "https://www.flipkart.com/vivo-t3-5g-crystal-flake-128-gb/p/itm69b3c5633378f?pid=MOBGYT3VN2J3GM45&lid=LSTMOBGYT3VN2J3GM45SGB0DT&marketplace=FLIPKART&q=smartphones&store=tyy%2F4io&srno=s_1_2&otracker=search&iid=c94adc80-db28-4f7e-b937-89b19b183c9d.MOBGYT3VN2J3GM45.SEARCH&ssid=pyee4mlzm80000001711995480426&qH=6ea4465d0add4685",
+            "https://www.flipkart.com/motorola-g24-power-ink-blue-128-gb/p/itmecab4a01b8aaf?pid=MOBGUFK4UBP7ZTXJ&lid=LSTMOBGUFK4UBP7ZTXJ6TV61J&marketplace=FLIPKART&q=smartphones&store=tyy%2F4io&srno=s_1_3&otracker=search&iid=c94adc80-db28-4f7e-b937-89b19b183c9d.MOBGUFK4UBP7ZTXJ.SEARCH&ssid=pyee4mlzm80000001711995480426&qH=6ea4465d0add4685",
+            "https://www.flipkart.com/oneplus-nord-ce-3-lite-5g-pastel-lime-128-gb/p/itm2cd5a4e659035?pid=MOBGZJ3WM5SGTGVZ&lid=LSTMOBGZJ3WM5SGTGVZ8XUVDF&marketplace=FLIPKART&q=smartphones&store=tyy%2F4io&srno=s_1_4&otracker=search&iid=c94adc80-db28-4f7e-b937-89b19b183c9d.MOBGZJ3WM5SGTGVZ.SEARCH&ssid=pyee4mlzm80000001711995480426&qH=6ea4465d0add4685"
+        ]
+    },
+    "response": {
+        "results": [
+            {
+                "col_1": "223",
+                "col_2": "mobile is heating",
+                "col_3": "265",
+                "col_4": "Sohail Khan",
+                "col_5": "13",
+                "col_6": "Mintu Mahto",
+                "col_7": "9",
+                "col_8": "Kranthi Naidu",
+                "col_9": "narayanaya",
+                "col_10": "Raza Ansari",
+                "col_11": "6",
+                "col_12": "/poco-c55-power-black-64-gb/product-questions/itme567bcd596fe9?pid=MOBGMXSW9PHJVQCA",
+                "col_13": "88",
+                "col_14": "1",
+                "col_15": "125",
+                "col_16": "33",
+                "col_17": "271",
+                "col_18": "7",
+                "col_19": "5",
+                "col_20": "86",
+                "col_21": "14",
+                "col_22": "Auto call recording available with out Anucment?",
+                "col_23": "It is support pubg",
+                "col_24": "Himanshu  Tripathi",
+                "col_25": "Finger prient kaha hai side ya back me",
+                "col_26": "Yes you can play any game without any problem",
+                "col_27": "C55",
+                "col_28": "Does POCO C55 have a fingerprint sensor?",
+                "col_29": "What are the dimensions of POCO C55?",
+                "col_30": "Can I use my wired headphones/ earphones with POCO C55?",
+                "col_31": "side-mounted",
+                "col_32": "Redmi 9i or Poco C55 which is better?",
+                "col_33": "Poco c3 vs poco c55 which is best for gaming",
+                "col_34": "Does POCO C55 come with a charger in the box?",
+                "col_35": "Yes, POCO C55 has a rear fingerprint sensor.",
+                "col_36": "Yes, POCO C55 comes with a 3.5mm headphone jack so you can use your wired headphones/ earphones with the phone.",
+                "col_37": "Yes, POCO C55 comes with a 5000mAh battery with a 10W charger in the box, that quickly replenishes the juice required for your phone.",
+                "col_38": "Q:",
+                "col_39": "A:",
+                "col_40": "Report Abuse",
+                "col_41": "All questions",
+                "col_42": "+",
+                "col_43": "Yes",
+                "col_44": "The dimensions of POCO C55 are 168.76mm x 76.41mmx 8.77mm (Height*Width*Thickness) and its weight is only 192g.",
+                "col_45": "Questions and Answers",
+                "col_46": "0",
+                "col_47": "Always poco c55...poco mobile is far better than REDMI",
+                "col_48": "15",
+                "col_49": "12",
+                "col_50": "3",
+                "col_51": "3",
+                "col_52": "12",
+                "col_53": "Clostail",
+                "col_54": "Clostail",
+                "col_55": "Flipkart Seller",
+                "col_56": "20",
+                "col_57": "Read other answers",
+                "col_58": null,
+                "col_59": null,
+                "col_60": null,
+                "col_61": null,
+                "col_62": null,
+                "col_63": null,
+                "col_64": null,
+                "col_65": null,
+                "col_66": null,
+                "col_67": null,
+                "col_68": null
+            },
+            {
+                "col_1": null,
+                "col_2": null,
+                "col_3": null,
+                "col_4": null,
+                "col_5": null,
+                "col_6": null,
+                "col_7": null,
+                "col_8": null,
+                "col_9": null,
+                "col_10": null,
+                "col_11": null,
+                "col_12": null,
+                "col_13": null,
+                "col_14": null,
+                "col_15": null,
+                "col_16": null,
+                "col_17": null,
+                "col_18": null,
+                "col_19": null,
+                "col_20": null,
+                "col_21": null,
+                "col_22": null,
+                "col_23": null,
+                "col_24": null,
+                "col_25": null,
+                "col_26": null,
+                "col_27": null,
+                "col_28": null,
+                "col_29": null,
+                "col_30": null,
+                "col_31": null,
+                "col_32": null,
+                "col_33": null,
+                "col_34": null,
+                "col_35": null,
+                "col_36": null,
+                "col_37": null,
+                "col_38": null,
+                "col_39": null,
+                "col_40": null,
+                "col_41": null,
+                "col_42": null,
+                "col_43": null,
+                "col_44": null,
+                "col_45": "Questions and Answers",
+                "col_46": null,
+                "col_47": null,
+                "col_48": null,
+                "col_49": null,
+                "col_50": null,
+                "col_51": null,
+                "col_52": null,
+                "col_53": null,
+                "col_54": null,
+                "col_55": null,
+                "col_56": null,
+                "col_57": null,
+                "col_58": "Q:",
+                "col_59": "NFC Support in this mobile phone ??",
+                "col_60": "A:",
+                "col_61": "Jignesh Mistry",
+                "col_62": "Certified Buyer",
+                "col_63": "51",
+                "col_64": "Report Abuse",
+                "col_65": "Didn't get the right answer you were looking for",
+                "col_66": "Post your question",
+                "col_67": "No",
+                "col_68": "15"
+            },
+            {
+                "col_1": "16",
+                "col_2": "Fingure print in this mobile",
+                "col_3": "19",
+                "col_4": "Flipkart Customer",
+                "col_5": "2",
+                "col_6": "Anonymous",
+                "col_7": "1",
+                "col_8": "Anonymous",
+                "col_9": "Dhanush J",
+                "col_10": "Anonymous",
+                "col_11": "2",
+                "col_12": "/motorola-g24-power-ink-blue-128-gb/product-questions/itmecab4a01b8aaf?pid=MOBGUFK4UBP7ZTXJ",
+                "col_13": "6",
+                "col_14": "43",
+                "col_15": "2",
+                "col_16": "1",
+                "col_17": "2",
+                "col_18": "2",
+                "col_19": "0",
+                "col_20": "9",
+                "col_21": "1",
+                "col_22": "Call recording announcement hai",
+                "col_23": "Does jio sim card internet work in this?",
+                "col_24": "Anonymous",
+                "col_25": "Does this mobile shows daily internet data consumption in notification bar like Redmi or Realme phones ?",
+                "col_26": "Yes",
+                "col_27": "No",
+                "col_28": "What is face lock add? Or finger lock",
+                "col_29": "Airtel 4g volte support karte hai ?",
+                "col_30": "Is this mobile battery lasts for long usage",
+                "col_31": "No, you need to Install a third party app.",
+                "col_32": "Jio sim support karata hai",
+                "col_33": "4g Volte support this phone?",
+                "col_34": "Use jio sim?",
+                "col_35": "Finger",
+                "col_36": "No Battery problem",
+                "col_37": "Yes",
+                "col_38": "Q:",
+                "col_39": "A:",
+                "col_40": "Report Abuse",
+                "col_41": "All questions",
+                "col_42": "+",
+                "col_43": "Yes",
+                "col_44": "Yes",
+                "col_45": "Questions and Answers",
+                "col_46": "0",
+                "col_47": "Yes",
+                "col_48": "0",
+                "col_49": "21",
+                "col_50": "0",
+                "col_51": "2",
+                "col_52": "2",
+                "col_53": "Ajith Vh",
+                "col_54": "Flipkart Customer",
+                "col_55": "Certified Buyer",
+                "col_56": "14",
+                "col_57": null,
+                "col_58": null,
+                "col_59": null,
+                "col_60": null,
+                "col_61": null,
+                "col_62": null,
+                "col_63": null,
+                "col_64": null,
+                "col_65": null,
+                "col_66": null,
+                "col_67": null,
+                "col_68": null
+            },
+            {
+                "col_1": "710",
+                "col_2": "Gaming phone hai kya",
+                "col_3": "3129",
+                "col_4": "SARFBazaar",
+                "col_5": "86",
+                "col_6": "CelebrationDeaLs",
+                "col_7": "46",
+                "col_8": "CelebrationDeaLs",
+                "col_9": "Anonymous",
+                "col_10": "CelebrationDeaLs",
+                "col_11": "26",
+                "col_12": "/oneplus-nord-ce-3-lite-5g-pastel-lime-128-gb/product-questions/itm2cd5a4e659035?pid=MOBGZJ3WM5SGTGVZ",
+                "col_13": "245",
+                "col_14": "481",
+                "col_15": "50",
+                "col_16": "144",
+                "col_17": "162",
+                "col_18": "454",
+                "col_19": "551",
+                "col_20": "1033",
+                "col_21": "1387",
+                "col_22": "Is photos are clear",
+                "col_23": "Does it come with it cover",
+                "col_24": "Authorised Seller.",
+                "col_25": "Does this phone has green line issue after update",
+                "col_26": "YES",
+                "col_27": "yes!",
+                "col_28": "Front camera specifications?",
+                "col_29": "In this fast charging",
+                "col_30": "Does it have a finger print sensor?",
+                "col_31": "No",
+                "col_32": "It's phone Fingerprint available",
+                "col_33": "good for gaming or not",
+                "col_34": "Charger kitna watt ka h",
+                "col_35": "16 MP.",
+                "col_36": "yes!",
+                "col_37": "65W Charger Compatible for OnePlus",
+                "col_38": "Q:",
+                "col_39": "A:",
+                "col_40": "Report Abuse",
+                "col_41": "All questions",
+                "col_42": "+",
+                "col_43": "yes!",
+                "col_44": "65W",
+                "col_45": "Questions and Answers",
+                "col_46": "167",
+                "col_47": "Yes",
+                "col_48": "36",
+                "col_49": "1242",
+                "col_50": "398",
+                "col_51": "120",
+                "col_52": "1017",
+                "col_53": "SARFBazaar",
+                "col_54": "CelebrationDeaLs",
+                "col_55": "Flipkart Seller",
+                "col_56": "14",
+                "col_57": null,
+                "col_58": null,
+                "col_59": null,
+                "col_60": null,
+                "col_61": null,
+                "col_62": null,
+                "col_63": null,
+                "col_64": null,
+                "col_65": null,
+                "col_66": null,
+                "col_67": null,
+                "col_68": null
+            }
+        ],
+        "columns_infos": {
+            "col_1": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 2.67,
+                "score": 100.0,
+                "rank": 1,
+                "values": [
+                    "223",
+                    null,
+                    "16",
+                    "710"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_2": {
+                "avg_nbr_words": 4,
+                "type": "text",
+                "avg_length": 21.67,
+                "score": 99.64,
+                "rank": 2,
+                "values": [
+                    "mobile is heating",
+                    null,
+                    "Fingure print in this mobile",
+                    "Gaming phone hai kya"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_3": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 3,
+                "score": 99.28,
+                "rank": 3,
+                "values": [
+                    "265",
+                    null,
+                    "19",
+                    "3129"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_4": {
+                "avg_nbr_words": 1.67,
+                "type": "text",
+                "avg_length": 12.67,
+                "score": 98.56,
+                "rank": 4,
+                "values": [
+                    "Sohail Khan",
+                    null,
+                    "Flipkart Customer",
+                    "SARFBazaar"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_5": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 1.67,
+                "score": 98.56,
+                "rank": 5,
+                "values": [
+                    "13",
+                    null,
+                    "2",
+                    "86"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_6": {
+                "avg_nbr_words": 1.33,
+                "type": "text",
+                "avg_length": 12,
+                "score": 96.03,
+                "rank": 6,
+                "values": [
+                    "Mintu Mahto",
+                    null,
+                    "Anonymous",
+                    "CelebrationDeaLs"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_7": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 1.33,
+                "score": 96.03,
+                "rank": 7,
+                "values": [
+                    "9",
+                    null,
+                    "1",
+                    "46"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_8": {
+                "avg_nbr_words": 1.33,
+                "type": "text",
+                "avg_length": 12.67,
+                "score": 96.03,
+                "rank": 8,
+                "values": [
+                    "Kranthi Naidu",
+                    null,
+                    "Anonymous",
+                    "CelebrationDeaLs"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_9": {
+                "avg_nbr_words": 1.33,
+                "type": "text",
+                "avg_length": 9.33,
+                "score": 96.03,
+                "rank": 9,
+                "values": [
+                    "narayanaya",
+                    null,
+                    "Dhanush J",
+                    "Anonymous"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_10": {
+                "avg_nbr_words": 1.33,
+                "type": "text",
+                "avg_length": 12,
+                "score": 96.03,
+                "rank": 10,
+                "values": [
+                    "Raza Ansari",
+                    null,
+                    "Anonymous",
+                    "CelebrationDeaLs"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_11": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 1.33,
+                "score": 96.03,
+                "rank": 11,
+                "values": [
+                    "6",
+                    null,
+                    "2",
+                    "26"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_12": {
+                "avg_nbr_words": 1,
+                "type": "attribute",
+                "avg_length": 91.67,
+                "score": 93.87,
+                "rank": 12,
+                "values": [
+                    "/poco-c55-power-black-64-gb/product-questions/itme567bcd596fe9?pid=MOBGMXSW9PHJVQCA",
+                    null,
+                    "/motorola-g24-power-ink-blue-128-gb/product-questions/itmecab4a01b8aaf?pid=MOBGUFK4UBP7ZTXJ",
+                    "/oneplus-nord-ce-3-lite-5g-pastel-lime-128-gb/product-questions/itm2cd5a4e659035?pid=MOBGZJ3WM5SGTGVZ"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_13": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 2,
+                "score": 92.97,
+                "rank": 13,
+                "values": [
+                    "88",
+                    null,
+                    "6",
+                    "245"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_14": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 2,
+                "score": 92.97,
+                "rank": 14,
+                "values": [
+                    "1",
+                    null,
+                    "43",
+                    "481"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_15": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 2,
+                "score": 92.97,
+                "rank": 15,
+                "values": [
+                    "125",
+                    null,
+                    "2",
+                    "50"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_16": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 2,
+                "score": 92.97,
+                "rank": 16,
+                "values": [
+                    "33",
+                    null,
+                    "1",
+                    "144"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_17": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 2.33,
+                "score": 92.07,
+                "rank": 17,
+                "values": [
+                    "271",
+                    null,
+                    "2",
+                    "162"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_18": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 1.67,
+                "score": 90.99,
+                "rank": 18,
+                "values": [
+                    "7",
+                    null,
+                    "2",
+                    "454"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_19": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 1.67,
+                "score": 90.99,
+                "rank": 19,
+                "values": [
+                    "5",
+                    null,
+                    "0",
+                    "551"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_20": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 2.33,
+                "score": 89.55,
+                "rank": 20,
+                "values": [
+                    "86",
+                    null,
+                    "9",
+                    "1033"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_21": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 2.33,
+                "score": 89.55,
+                "rank": 21,
+                "values": [
+                    "14",
+                    null,
+                    "1",
+                    "1387"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_22": {
+                "avg_nbr_words": 5,
+                "type": "text",
+                "avg_length": 32.67,
+                "score": 88.83,
+                "rank": 22,
+                "values": [
+                    "Auto call recording available with out Anucment?",
+                    null,
+                    "Call recording announcement hai",
+                    "Is photos are clear"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_23": {
+                "avg_nbr_words": 6,
+                "type": "text",
+                "avg_length": 28,
+                "score": 88.47,
+                "rank": 23,
+                "values": [
+                    "It is support pubg",
+                    null,
+                    "Does jio sim card internet work in this?",
+                    "Does it come with it cover"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_24": {
+                "avg_nbr_words": 1.67,
+                "type": "text",
+                "avg_length": 15,
+                "score": 88.11,
+                "rank": 24,
+                "values": [
+                    "Himanshu  Tripathi",
+                    null,
+                    "Anonymous",
+                    "Authorised Seller."
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_25": {
+                "avg_nbr_words": 11.33,
+                "type": "text",
+                "avg_length": 63.67,
+                "score": 87.75,
+                "rank": 25,
+                "values": [
+                    "Finger prient kaha hai side ya back me",
+                    null,
+                    "Does this mobile shows daily internet data consumption in notification bar like Redmi or Realme phones ?",
+                    "Does this phone has green line issue after update"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_26": {
+                "avg_nbr_words": 3.67,
+                "type": "text",
+                "avg_length": 17,
+                "score": 87.39,
+                "rank": 26,
+                "values": [
+                    "Yes you can play any game without any problem",
+                    null,
+                    "Yes",
+                    "YES"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_27": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 3,
+                "score": 87.03,
+                "rank": 27,
+                "values": [
+                    "C55",
+                    null,
+                    "No",
+                    "yes!"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_28": {
+                "avg_nbr_words": 6,
+                "type": "text",
+                "avg_length": 35,
+                "score": 86.67,
+                "rank": 28,
+                "values": [
+                    "Does POCO C55 have a fingerprint sensor?",
+                    null,
+                    "What is face lock add? Or finger lock",
+                    "Front camera specifications?"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_29": {
+                "avg_nbr_words": 6,
+                "type": "text",
+                "avg_length": 30.67,
+                "score": 86.31,
+                "rank": 29,
+                "values": [
+                    "What are the dimensions of POCO C55?",
+                    null,
+                    "Airtel 4g volte support karte hai ?",
+                    "In this fast charging"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_30": {
+                "avg_nbr_words": 8.33,
+                "type": "text",
+                "avg_length": 44.33,
+                "score": 85.95,
+                "rank": 30,
+                "values": [
+                    "Can I use my wired headphones/ earphones with POCO C55?",
+                    null,
+                    "Is this mobile battery lasts for long usage",
+                    "Does it have a finger print sensor?"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_31": {
+                "avg_nbr_words": 3.67,
+                "type": "text",
+                "avg_length": 18.67,
+                "score": 85.58,
+                "rank": 31,
+                "values": [
+                    "side-mounted",
+                    null,
+                    "No, you need to Install a third party app.",
+                    "No"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_32": {
+                "avg_nbr_words": 5.67,
+                "type": "text",
+                "avg_length": 31.67,
+                "score": 85.22,
+                "rank": 32,
+                "values": [
+                    "Redmi 9i or Poco C55 which is better?",
+                    null,
+                    "Jio sim support karata hai",
+                    "It's phone Fingerprint available"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_33": {
+                "avg_nbr_words": 6.67,
+                "type": "text",
+                "avg_length": 31.33,
+                "score": 84.86,
+                "rank": 33,
+                "values": [
+                    "Poco c3 vs poco c55 which is best for gaming",
+                    null,
+                    "4g Volte support this phone?",
+                    "good for gaming or not"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_34": {
+                "avg_nbr_words": 6,
+                "type": "text",
+                "avg_length": 26.67,
+                "score": 84.51,
+                "rank": 34,
+                "values": [
+                    "Does POCO C55 come with a charger in the box?",
+                    null,
+                    "Use jio sim?",
+                    "Charger kitna watt ka h"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_35": {
+                "avg_nbr_words": 3.67,
+                "type": "text",
+                "avg_length": 18.67,
+                "score": 84.14,
+                "rank": 35,
+                "values": [
+                    "Yes, POCO C55 has a rear fingerprint sensor.",
+                    null,
+                    "Finger",
+                    "16 MP."
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_36": {
+                "avg_nbr_words": 8,
+                "type": "text",
+                "avg_length": 44.33,
+                "score": 83.42,
+                "rank": 36,
+                "values": [
+                    "Yes, POCO C55 comes with a 3.5mm headphone jack so you can use your wired headphones/ earphones with the phone.",
+                    null,
+                    "No Battery problem",
+                    "yes!"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_37": {
+                "avg_nbr_words": 10,
+                "type": "text",
+                "avg_length": 56.67,
+                "score": 83.06,
+                "rank": 37,
+                "values": [
+                    "Yes, POCO C55 comes with a 5000mAh battery with a 10W charger in the box, that quickly replenishes the juice required for your phone.",
+                    null,
+                    "Yes",
+                    "65W Charger Compatible for OnePlus"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_38": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 2,
+                "score": 81.19,
+                "rank": 38,
+                "values": [
+                    "Q:",
+                    null,
+                    "Q:",
+                    "Q:"
+                ],
+                "labels_filters": []
+            },
+            "col_39": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 2,
+                "score": 81.19,
+                "rank": 39,
+                "values": [
+                    "A:",
+                    null,
+                    "A:",
+                    "A:"
+                ],
+                "labels_filters": []
+            },
+            "col_40": {
+                "avg_nbr_words": 2,
+                "type": "text",
+                "avg_length": 12,
+                "score": 81.19,
+                "rank": 40,
+                "values": [
+                    "Report Abuse",
+                    null,
+                    "Report Abuse",
+                    "Report Abuse"
+                ],
+                "labels_filters": []
+            },
+            "col_41": {
+                "avg_nbr_words": 2,
+                "type": "text",
+                "avg_length": 13,
+                "score": 81.19,
+                "rank": 41,
+                "values": [
+                    "All questions",
+                    null,
+                    "All questions",
+                    "All questions"
+                ],
+                "labels_filters": []
+            },
+            "col_42": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 1,
+                "score": 81.19,
+                "rank": 42,
+                "values": [
+                    "+",
+                    null,
+                    "+",
+                    "+"
+                ],
+                "labels_filters": []
+            },
+            "col_43": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 3.33,
+                "score": 78.38,
+                "rank": 43,
+                "values": [
+                    "Yes",
+                    null,
+                    "Yes",
+                    "yes!"
+                ],
+                "labels_filters": []
+            },
+            "col_44": {
+                "avg_nbr_words": 6.33,
+                "type": "text",
+                "avg_length": 39,
+                "score": 78.02,
+                "rank": 44,
+                "values": [
+                    "The dimensions of POCO C55 are 168.76mm x 76.41mmx 8.77mm (Height*Width*Thickness) and its weight is only 192g.",
+                    null,
+                    "Yes",
+                    "65W"
+                ],
+                "labels_filters": [
+                    "ok_data"
+                ]
+            },
+            "col_45": {
+                "avg_nbr_words": 3,
+                "type": "text",
+                "avg_length": 21,
+                "score": 76.33,
+                "rank": 45,
+                "values": [
+                    "Questions and Answers",
+                    "Questions and Answers",
+                    "Questions and Answers",
+                    "Questions and Answers"
+                ],
+                "labels_filters": []
+            },
+            "col_46": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 1.67,
+                "score": 73.33,
+                "rank": 46,
+                "values": [
+                    "0",
+                    null,
+                    "0",
+                    "167"
+                ],
+                "labels_filters": []
+            },
+            "col_47": {
+                "avg_nbr_words": 3.67,
+                "type": "text",
+                "avg_length": 20,
+                "score": 66.13,
+                "rank": 47,
+                "values": [
+                    "Always poco c55...poco mobile is far better than REDMI",
+                    null,
+                    "Yes",
+                    "Yes"
+                ],
+                "labels_filters": []
+            },
+            "col_48": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 1.67,
+                "score": 59.1,
+                "rank": 48,
+                "values": [
+                    "15",
+                    null,
+                    "0",
+                    "36"
+                ],
+                "labels_filters": []
+            },
+            "col_49": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 2.67,
+                "score": 56.58,
+                "rank": 49,
+                "values": [
+                    "12",
+                    null,
+                    "21",
+                    "1242"
+                ],
+                "labels_filters": []
+            },
+            "col_50": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 1.67,
+                "score": 51.53,
+                "rank": 50,
+                "values": [
+                    "3",
+                    null,
+                    "0",
+                    "398"
+                ],
+                "labels_filters": []
+            },
+            "col_51": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 1.67,
+                "score": 51.53,
+                "rank": 51,
+                "values": [
+                    "3",
+                    null,
+                    "2",
+                    "120"
+                ],
+                "labels_filters": []
+            },
+            "col_52": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 2.33,
+                "score": 50.09,
+                "rank": 52,
+                "values": [
+                    "12",
+                    null,
+                    "2",
+                    "1017"
+                ],
+                "labels_filters": []
+            },
+            "col_53": {
+                "avg_nbr_words": 1.33,
+                "type": "text",
+                "avg_length": 8.67,
+                "score": 46.84,
+                "rank": 53,
+                "values": [
+                    "Clostail",
+                    null,
+                    "Ajith Vh",
+                    "SARFBazaar"
+                ],
+                "labels_filters": []
+            },
+            "col_54": {
+                "avg_nbr_words": 1.33,
+                "type": "text",
+                "avg_length": 13.67,
+                "score": 46.84,
+                "rank": 54,
+                "values": [
+                    "Clostail",
+                    null,
+                    "Flipkart Customer",
+                    "CelebrationDeaLs"
+                ],
+                "labels_filters": []
+            },
+            "col_55": {
+                "avg_nbr_words": 2,
+                "type": "text",
+                "avg_length": 15,
+                "score": 45.77,
+                "rank": 55,
+                "values": [
+                    "Flipkart Seller",
+                    null,
+                    "Certified Buyer",
+                    "Flipkart Seller"
+                ],
+                "labels_filters": []
+            },
+            "col_56": {
+                "avg_nbr_words": 1,
+                "type": "attribute",
+                "avg_length": 2,
+                "score": 45.77,
+                "rank": 56,
+                "values": [
+                    "20",
+                    null,
+                    "14",
+                    "14"
+                ],
+                "labels_filters": []
+            },
+            "col_57": {
+                "avg_nbr_words": 3,
+                "type": "text",
+                "avg_length": 18,
+                "score": 39.46,
+                "rank": 57,
+                "values": [
+                    "Read other answers",
+                    null,
+                    null,
+                    null
+                ],
+                "labels_filters": []
+            },
+            "col_58": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 2,
+                "score": 39.46,
+                "rank": 58,
+                "values": [
+                    null,
+                    "Q:",
+                    null,
+                    null
+                ],
+                "labels_filters": []
+            },
+            "col_59": {
+                "avg_nbr_words": 7,
+                "type": "text",
+                "avg_length": 35,
+                "score": 39.46,
+                "rank": 59,
+                "values": [
+                    null,
+                    "NFC Support in this mobile phone ??",
+                    null,
+                    null
+                ],
+                "labels_filters": []
+            },
+            "col_60": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 2,
+                "score": 39.46,
+                "rank": 60,
+                "values": [
+                    null,
+                    "A:",
+                    null,
+                    null
+                ],
+                "labels_filters": []
+            },
+            "col_61": {
+                "avg_nbr_words": 2,
+                "type": "text",
+                "avg_length": 14,
+                "score": 39.46,
+                "rank": 61,
+                "values": [
+                    null,
+                    "Jignesh Mistry",
+                    null,
+                    null
+                ],
+                "labels_filters": []
+            },
+            "col_62": {
+                "avg_nbr_words": 2,
+                "type": "text",
+                "avg_length": 15,
+                "score": 39.46,
+                "rank": 62,
+                "values": [
+                    null,
+                    "Certified Buyer",
+                    null,
+                    null
+                ],
+                "labels_filters": []
+            },
+            "col_63": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 2,
+                "score": 39.46,
+                "rank": 63,
+                "values": [
+                    null,
+                    "51",
+                    null,
+                    null
+                ],
+                "labels_filters": []
+            },
+            "col_64": {
+                "avg_nbr_words": 2,
+                "type": "text",
+                "avg_length": 12,
+                "score": 39.46,
+                "rank": 64,
+                "values": [
+                    null,
+                    "Report Abuse",
+                    null,
+                    null
+                ],
+                "labels_filters": []
+            },
+            "col_65": {
+                "avg_nbr_words": 9,
+                "type": "text",
+                "avg_length": 48,
+                "score": 39.46,
+                "rank": 65,
+                "values": [
+                    null,
+                    "Didn't get the right answer you were looking for",
+                    null,
+                    null
+                ],
+                "labels_filters": []
+            },
+            "col_66": {
+                "avg_nbr_words": 3,
+                "type": "text",
+                "avg_length": 18,
+                "score": 39.46,
+                "rank": 66,
+                "values": [
+                    null,
+                    "Post your question",
+                    null,
+                    null
+                ],
+                "labels_filters": []
+            },
+            "col_67": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 2,
+                "score": 0.0,
+                "rank": 67,
+                "values": [
+                    null,
+                    "No",
+                    null,
+                    null
+                ],
+                "labels_filters": []
+            },
+            "col_68": {
+                "avg_nbr_words": 1,
+                "type": "text",
+                "avg_length": 2,
+                "score": 0.0,
+                "rank": 68,
+                "values": [
+                    null,
+                    "15",
+                    null,
+                    null
+                ],
+                "labels_filters": []
+            }
+        },
+        "nbr_items": 31.25,
+        "nbr_pages": 4,
+        "containers": [
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div",
+                "ranking": 1.11433,
+                "scoring": {
+                    "nbr_items": 36.25
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[5]/div/div[2]/div",
+                "ranking": 1.02804,
+                "scoring": {
+                    "nbr_items": 121.5
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/footer",
+                "ranking": 1.02737,
+                "scoring": {
+                    "nbr_items": 74.75
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[5]/div",
+                "ranking": 1.02667,
+                "scoring": {
+                    "nbr_items": 123.5
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div",
+                "ranking": 1.026,
+                "scoring": {
+                    "nbr_items": 74.75
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div",
+                "ranking": 1.02255,
+                "scoring": {
+                    "nbr_items": 84.75
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]",
+                "ranking": 0.99447,
+                "scoring": {
+                    "nbr_items": 279
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[3]",
+                "ranking": 0.99173,
+                "scoring": {
+                    "nbr_items": 9.25
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[6]/div/div",
+                "ranking": 0.989,
+                "scoring": {
+                    "nbr_items": 10
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[3]/div[2]/div/div",
+                "ranking": 0.98832,
+                "scoring": {
+                    "nbr_items": 7.25
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[6]",
+                "ranking": 0.98626,
+                "scoring": {
+                    "nbr_items": 10
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[5]/div",
+                "ranking": 0.98282,
+                "scoring": {
+                    "nbr_items": 9
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[3]/div[2]/div",
+                "ranking": 0.98147,
+                "scoring": {
+                    "nbr_items": 8.25
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[3]/div[2]",
+                "ranking": 0.98147,
+                "scoring": {
+                    "nbr_items": 8.25
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[6]/div",
+                "ranking": 0.98146,
+                "scoring": {
+                    "nbr_items": 21
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div",
+                "ranking": 0.9801,
+                "scoring": {
+                    "nbr_items": 415
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div",
+                "ranking": 0.9801,
+                "scoring": {
+                    "nbr_items": 415
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[1]/div",
+                "ranking": 0.97803,
+                "scoring": {
+                    "nbr_items": 6.75
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[2]/div",
+                "ranking": 0.97598,
+                "scoring": {
+                    "nbr_items": 10.25
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[2]",
+                "ranking": 0.97461,
+                "scoring": {
+                    "nbr_items": 10.25
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[5]",
+                "ranking": 0.97118,
+                "scoring": {
+                    "nbr_items": 5.5
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body",
+                "ranking": 0.96775,
+                "scoring": {
+                    "nbr_items": 423
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[2]",
+                "ranking": 0.96502,
+                "scoring": {
+                    "nbr_items": 7
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[2]/div",
+                "ranking": 0.96365,
+                "scoring": {
+                    "nbr_items": 7
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[2]/div/div",
+                "ranking": 0.96091,
+                "scoring": {
+                    "nbr_items": 7
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[1]/div[1]/div",
+                "ranking": 0.95132,
+                "scoring": {
+                    "nbr_items": 5
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[2]",
+                "ranking": 0.94996,
+                "scoring": {
+                    "nbr_items": 31.75
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[2]/div",
+                "ranking": 0.94859,
+                "scoring": {
+                    "nbr_items": 31.75
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[1]/div[1]",
+                "ranking": 0.94858,
+                "scoring": {
+                    "nbr_items": 5
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[2]/div[1]",
+                "ranking": 0.94721,
+                "scoring": {
+                    "nbr_items": 14
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[2]",
+                "ranking": 0.94172,
+                "scoring": {
+                    "nbr_items": 20.75
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[6]/div/div[2]/div[1]",
+                "ranking": 0.94104,
+                "scoring": {
+                    "nbr_items": 13
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[1]",
+                "ranking": 0.93761,
+                "scoring": {
+                    "nbr_items": 7
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[3]",
+                "ranking": 0.93695,
+                "scoring": {
+                    "nbr_items": 43
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[2]/div/div[2]",
+                "ranking": 0.93693,
+                "scoring": {
+                    "nbr_items": 29.75
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[7]",
+                "ranking": 0.93488,
+                "scoring": {
+                    "nbr_items": 10.75
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]",
+                "ranking": 0.93214,
+                "scoring": {
+                    "nbr_items": 327.25
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]",
+                "ranking": 0.93076,
+                "scoring": {
+                    "nbr_items": 334.25
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[3]/div[1]",
+                "ranking": 0.92873,
+                "scoring": {
+                    "nbr_items": 37
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]",
+                "ranking": 0.92803,
+                "scoring": {
+                    "nbr_items": 327.25
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[2]/div/div/div[2]",
+                "ranking": 0.9253,
+                "scoring": {
+                    "nbr_items": 6
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[2]/div/div/div[2]/div",
+                "ranking": 0.92393,
+                "scoring": {
+                    "nbr_items": 6
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[2]/div/div/div[2]/div/div",
+                "ranking": 0.92256,
+                "scoring": {
+                    "nbr_items": 6
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[6]/div",
+                "ranking": 0.91571,
+                "scoring": {
+                    "nbr_items": 11
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[2]/div/div/div[2]/div/div/div[1]",
+                "ranking": 0.91092,
+                "scoring": {
+                    "nbr_items": 6
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[2]/div/div/div[2]/div/div/div[1]/div",
+                "ranking": 0.90612,
+                "scoring": {
+                    "nbr_items": 6
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[3]/div[1]/div[5]/div",
+                "ranking": 0.88489,
+                "scoring": {
+                    "nbr_items": 8
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[3]/div[1]/div[5]",
+                "ranking": 0.88489,
+                "scoring": {
+                    "nbr_items": 8
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[2]/div[1]/div/div[2]",
+                "ranking": 0.88487,
+                "scoring": {
+                    "nbr_items": 11
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[1]",
+                "ranking": 0.87941,
+                "scoring": {
+                    "nbr_items": 6.25
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[6]/div/div[2]/div[1]/div[3]",
+                "ranking": 0.86639,
+                "scoring": {
+                    "nbr_items": 4
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/head",
+                "ranking": 0.86638,
+                "scoring": {
+                    "nbr_items": 7
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[6]/div/div[2]/div[2]",
+                "ranking": 0.86365,
+                "scoring": {
+                    "nbr_items": 8
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[2]/div[1]/div/div[2]/div",
+                "ranking": 0.85885,
+                "scoring": {
+                    "nbr_items": 11
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[6]/div/div[2]",
+                "ranking": 0.85406,
+                "scoring": {
+                    "nbr_items": 20.5
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[2]/div[2]",
+                "ranking": 0.85201,
+                "scoring": {
+                    "nbr_items": 7
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[3]/div[2]/div",
+                "ranking": 0.83832,
+                "scoring": {
+                    "nbr_items": 6
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[3]/div[2]",
+                "ranking": 0.83832,
+                "scoring": {
+                    "nbr_items": 6
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[1]/div[1]/div[2]",
+                "ranking": 0.81982,
+                "scoring": {
+                    "nbr_items": 6
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[2]/div/div[4]",
+                "ranking": 0.81913,
+                "scoring": {
+                    "nbr_items": 4
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[1]/div[1]",
+                "ranking": 0.81845,
+                "scoring": {
+                    "nbr_items": 6
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[1]",
+                "ranking": 0.81708,
+                "scoring": {
+                    "nbr_items": 6
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div",
+                "ranking": 0.80748,
+                "scoring": {
+                    "nbr_items": 0
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[2]/div[1]/div/div[2]/div/ul[1]",
+                "ranking": 0.78695,
+                "scoring": {
+                    "nbr_items": 6
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[1]",
+                "ranking": 0.7794,
+                "scoring": {
+                    "nbr_items": 0
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[1]/div[1]",
+                "ranking": 0.77392,
+                "scoring": {
+                    "nbr_items": 0
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[1]/div[1]/div",
+                "ranking": 0.77118,
+                "scoring": {
+                    "nbr_items": 0
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[1]/div[1]/div/div[1]",
+                "ranking": 0.76981,
+                "scoring": {
+                    "nbr_items": 0
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[2]/div[1]/div/div[2]/div/ul[2]",
+                "ranking": 0.76844,
+                "scoring": {
+                    "nbr_items": 0
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[1]/div[1]/div/div[1]/div[1]",
+                "ranking": 0.76707,
+                "scoring": {
+                    "nbr_items": 0
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[1]/div[1]/div/div[1]/div[1]/div",
+                "ranking": 0.7657,
+                "scoring": {
+                    "nbr_items": 0
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[1]/div[1]/div/div[1]/div[1]/div/div[1]",
+                "ranking": 0.76159,
+                "scoring": {
+                    "nbr_items": 0
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[1]/div[1]/div/div[1]/div[1]/div/div[1]/ul",
+                "ranking": 0.76022,
+                "scoring": {
+                    "nbr_items": 0
+                },
+                "mode": "detail",
+                "status": "included"
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[1]/div[1]/div/div[1]/div[1]/div/div[1]/ul",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 14
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[2]/div/div/div[2]/div/div/div[1]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 4
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[1]/div/div/div[4]/div[2]/div/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 10
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 9
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 10
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]/div[9]/div/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]/div[9]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[2]/div[1]/div/div[2]/div/ul[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 5
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]/div[9]/div/div[2]/div[2]/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 5
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[10]/div/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 4
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 8
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[2]/div/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 30
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[6]/div/div[2]/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[7]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[9]/div/div/div[4]/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/head",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 42
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[5]/div/div[2]/div/div[10]/table/tbody/tr[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[5]/div/div[2]/div/div[10]/table/tbody",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[5]/div/div[2]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 12
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[1]/div[1]/div/div[1]/div[1]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[1]/div[1]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[1]/div[1]/div/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[3]/div[1]/div[5]/div/div[4]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[5]/div/div[2]/div/div[1]/table/tbody",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 11
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]/div[10]/div/div[2]/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 4
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[1]/div[1]/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 6
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[1]/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]/div[10]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[1]/div[1]/div[2]/div[2]/form/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 5
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]/div[9]/div/div[2]/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[3]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[3]/div[2]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 4
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[2]/div/div[2]/div/div/span[2]/span",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]/div[9]/div/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[3]/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 6
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[3]/div[1]/div[4]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 7
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[1]/div[1]/div[2]/div[1]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[10]/div/div/div[4]/div[2]/div/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[2]/div/div/div[2]/div/div/div[1]/div/div[4]/div/div/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]/div[9]/div/div[2]/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[2]/div[1]/div/div[2]/div/ul[1]/li[1]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[2]/div[1]/div/div[2]/div/ul[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 5
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[2]/div[1]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[2]/div[1]/div/div[2]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]/div[10]/div/div[2]/div[2]/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[6]/div/div/div[2]/div[1]/ul/div/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 4
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[9]/div/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 4
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[9]/div/div/div[4]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[3]/div[2]/div/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 4
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[3]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[3]/div[1]/div[6]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[1]/div[1]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 5
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[2]/div/div/div[2]/div/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[1]/div[1]/div/div[1]/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[2]/div[2]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 4
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[2]/div[2]/div/a[4]/div/div[1]/svg",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[3]/div[1]/div[6]/div/div[2]/div/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 8
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[9]/div/div/div[4]/div[2]/div/div[2]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[2]/div/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[6]/div/div[2]/div[1]/div[1]/div/div/div/div[3]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[6]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[6]/div/div[2]/div[1]/div[1]/div/div/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[6]/div/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[2]/div/div[4]/div[2]/div/svg/g/g",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[2]/div/div/div[2]/div/div/div[1]/div/div[4]/div/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[1]/div[1]/div[2]/div[2]/form/div/button/svg/g",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[4]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 8
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/footer/div/div[2]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[10]/div/div/div[4]/div[2]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[10]/div/div/div[4]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[6]/div/div/div[4]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[5]/div/div[2]/div[1]/div/ul",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[2]/div/div[4]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[5]/div/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[5]/div/div/div[4]/div[2]/div/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[5]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[5]/div/div[2]/div/div[8]/table/tbody",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 14
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[6]/div/div[2]/div[2]/div[1]/div/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]/div[6]/div/div[2]/div[2]/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[8]/div/div/div[4]/div[2]/div/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[1]/div/div/div[4]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]/div[5]/div/div[2]/div[2]/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[8]/div/div/div[4]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[6]/div/div/div[4]/div[2]/div/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]/div[1]/div/div[2]/div[2]/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]/div[4]/div/div[2]/div[2]/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]/div[8]/div/div[2]/div[2]/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[2]/div[1]/div/div[1]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[5]/div/div[1]/div[1]/div/ul",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[5]/div/div[2]/div/div[3]/table/tbody",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 7
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[5]/div/div[2]/div/div[12]/table/tbody",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[5]/div/div[2]/div/div[2]/table/tbody",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 5
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[4]/div/div/div[4]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[6]/div/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[5]/div/div[2]/div/div[7]/table/tbody",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 19
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]/div[3]/div/div[2]/div[2]/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[3]/div/div/div[4]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[9]/div/div/div[4]/div[2]/div/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[4]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[2]/div/div/div[4]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[5]/div/div[2]/div/div[5]/table/tbody",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 14
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[6]/div/div[2]/div[2]/div[1]/div/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[3]/div/div/div[4]/div[2]/div/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[5]/div/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[7]/div/div/div[4]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[7]/div/div/div[4]/div[2]/div/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[5]/div/div[2]/div/div[9]/table/tbody",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[4]/div/div/div[4]/div[2]/div/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[5]/div/div/div[4]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[5]/div/div[2]/div/div[4]/table/tbody",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 6
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[5]/div/div[2]/div/div[6]/table/tbody",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 8
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[1]/div/div[2]/div[2]/ul",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]/div[2]/div/div[2]/div[2]/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[5]/div/div[2]/div/div[11]/table/tbody",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 4
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[8]/div/div/div[2]/div[7]/div/div[2]/div[2]/div[2]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[6]/div/div[2]/div[2]/div[1]/div",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 3
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[4]/div[2]/div/div/div[4]/div[2]/div/div[1]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 2
+                },
+                "mode": "list",
+                "status": ""
+            },
+            {
+                "xpath": "/html/body/div/div/div[3]/div[1]/div[2]/div[8]/div[7]/div/div[2]/div[1]/div/div[2]/div/ul[3]",
+                "ranking": 0,
+                "scoring": {
+                    "nbr_rows": 5
+                },
+                "mode": "list",
+                "status": ""
+            }
+        ],
+        "html": [
+            "https://d3uiwsiokfkzr8.cloudfront.net/saved_htmls/18fcad14e189aafe0e4a2cadfde65ca8/0.html",
+            "https://d3uiwsiokfkzr8.cloudfront.net/saved_htmls/18fcad14e189aafe0e4a2cadfde65ca8/1.html",
+            "https://d3uiwsiokfkzr8.cloudfront.net/saved_htmls/18fcad14e189aafe0e4a2cadfde65ca8/2.html",
+            "https://d3uiwsiokfkzr8.cloudfront.net/saved_htmls/18fcad14e189aafe0e4a2cadfde65ca8/3.html"
+        ],
+        "id": 94,
+        "web_app": "https://webapp.minexa.ai/web_app/94/?ufn=1c7ab8f7b8f0d75d330ab7003a0bdc1e"
+    },
+    "meta": {
+        "elapsed_time_seconds": 11.83,
+        "date_time_request": "2024-04-05 06:19:55",
+        "html_hash": "bc9b1e76fa2400340324255dc197a8d9",
+        "plan": "free"
+    }
+}

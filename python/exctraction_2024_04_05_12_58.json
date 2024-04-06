@@ -1,0 +1,16 @@
+[
+    {
+        "url": "https://www.flipkart.com/search?q=smartphones&as=on&as-show=on&otracker=AS_Query_HistoryAutoSuggest_6_0_na_na_na&otracker1=AS_Query_HistoryAutoSuggest_6_0_na_na_na&as-pos=6&as-type=HISTORY&suggestionId=smartphones&requestId=dc094101-2122-4557-bd9f-0358b5669186",
+        "mode": "list",
+        "request_batch_id": 0,
+        "results": [],
+        "error": "timeout"
+    },
+    {
+        "url": "https://www.flipkart.com/search?q=washing+machine&sid=j9e%2Cabm%2C8qx&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&as-pos=1&as-type=RECENT&suggestionId=washing+machine%7CWashing+Machines&requestId=b81ca721-c07d-4fdf-86e3-57b17b2fcec8&as-searchtext=was",
+        "mode": "list",
+        "request_batch_id": 0,
+        "results": [],
+        "error": "bad_html"
+    }
+]

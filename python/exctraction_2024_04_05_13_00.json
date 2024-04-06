@@ -1,0 +1,940 @@
+[
+    {
+        "url": "https://www.flipkart.com/search?q=smartphones&as=on&as-show=on&otracker=AS_Query_HistoryAutoSuggest_6_0_na_na_na&otracker1=AS_Query_HistoryAutoSuggest_6_0_na_na_na&as-pos=6&as-type=HISTORY&suggestionId=smartphones&requestId=dc094101-2122-4557-bd9f-0358b5669186",
+        "mode": "list",
+        "request_batch_id": 0,
+        "results": [],
+        "error": "bad_html"
+    },
+    {
+        "url": "https://www.flipkart.com/search?q=washing+machine&sid=j9e%2Cabm%2C8qx&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&as-pos=1&as-type=RECENT&suggestionId=washing+machine%7CWashing+Machines&requestId=b81ca721-c07d-4fdf-86e3-57b17b2fcec8&as-searchtext=was",
+        "mode": "list",
+        "request_batch_id": 0,
+        "results": [
+            {
+                "col_6": "",
+                "col_18": "",
+                "col_19": "",
+                "error": "NO_COLUMNS_EXTRACTED"
+            },
+            {
+                "col_6": "Voltas Beko 7.5 kg Semi Automatic Top Load Washing Machine Grey, White",
+                "col_18": [
+                    {
+                        "value": "1350 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "1 Year Warranty on Product and 5 Years Warranty on Motor",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b99,790",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "Sansui 7 kg Semi Automatic Top Load Washing Machine Red, White",
+                "col_18": [
+                    {
+                        "value": "1300 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Years Comprehensive Warranty On Product and 5 Years on Wash Motor",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b97,890",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "realme TechLife 7 kg 5 Star rating Semi Automatic Top Load Washing Machine White, Black",
+                "col_18": [
+                    {
+                        "value": "1400 RPM Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Years Comprehensive and 5 Years on Wash Motor",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b97,690",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "Thomson 7.5 kg 5 Star Aqua Magic Semi Automatic Top Load Washing Machine Black, Grey",
+                "col_18": [
+                    {
+                        "value": "1600 RPM Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Years Comprehensive Warranty on Product and 5 Years Warranty on Motor",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b97,690",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "Whirlpool 7 kg Magic Clean 5 Star Fully Automatic Top Load Washing Machine Grey",
+                "col_18": [
+                    {
+                        "value": "740 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Years Comprehensive Warranty on Product and 5 Years on Prime Mover and Motor",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b915,390",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "Whirlpool 7 kg Semi Automatic Top Load Washing Machine Grey",
+                "col_18": [
+                    {
+                        "value": "1400 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "4 Years Comprehensive Warranty and 5 Years Warranty on Motor",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b910,390",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "LG 8 kg 5 Star with Smart Inverter Technology, TurboDrum and Smart Diagnosis Fully Automatic Top Load ...",
+                "col_18": [
+                    {
+                        "value": "700 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Years Comprehensive Warranty on Product and 10 Years Warranty on Motor (T&C)",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b918,990",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "Voltas Beko 8.5 kg Semi Automatic Top Load Washing Machine Maroon, White",
+                "col_18": [
+                    {
+                        "value": "1350 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "1 Year Warranty on Product and 5 Years Warranty on Motor",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b910,990",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "Whirlpool 7.5 kg Fully Automatic Top Load Washing Machine with In-built Heater Grey",
+                "col_18": [
+                    {
+                        "value": "740 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "With In-Built Heater",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Years Comprehensive Warranty on Product and 10 Years Additional Warranty on Motor",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b917,990",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "LG 7 kg 5 Star with Wind Jet Dry, Collar Scrubber and Rust Free Plastic Base Semi Automatic Top Load W...",
+                "col_18": [
+                    {
+                        "value": "1350 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Years Comprehensive Warranty on product and 5 Years on Wash Motor from LG",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b911,490",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "Panasonic 8 kg with Wi-Fi Enabled Fully Automatic Top Load Washing Machine with In-built Heater Grey",
+                "col_18": [
+                    {
+                        "value": "702 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "With In-Built Heater",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Years Comprehensive Warranty and 10 Years Warranty on Motor from Panasonic",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b925,990",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "Sansui 9 kg Semi Automatic Top Load Washing Machine White, Maroon",
+                "col_18": [
+                    {
+                        "value": "1350 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Years Comprehensive Warranty On Product and 5 Years on Wash Motor",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b910,390",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "MOTOROLA 10 kg 5 star rating Semi Automatic Top Load Washing Machine Black",
+                "col_18": [
+                    {
+                        "value": "1350 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Year Comprehensive Warranty on Product and 5 Years Warranty on Motor.",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b910,990",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "Haier 6.5 kg 5 Star Oceanus Wave Drum Washing Machine Fully Automatic Top Load Brown, Grey",
+                "col_18": [
+                    {
+                        "value": "800 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Years Comprehensive Warranty on Product and 10 Years Warranty on Motor from Haier",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b912,790",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "LG 7 kg 5 Star with Smart Inverter Technology, TurboDrum and Smart Diagnosis Fully Automatic Top Load ...",
+                "col_18": [
+                    {
+                        "value": "700 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Years Comprehensive Warranty and 10 Years Warranty on Motor from LG",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b917,490",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "IFB 7 kg 5 Star 2X Power Steam,Hard Water Wash Fully Automatic Front Load Washing Machine with In-buil...",
+                "col_18": [
+                    {
+                        "value": "1000 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "With In-Built Heater",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "4 Years Comprehensive Warranty, 10 Years Motor Warranty and 10 Years Spares Support",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b925,490",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "Sansui 8.5 kg Semi Automatic Top Load Washing Machine Red, White",
+                "col_18": [
+                    {
+                        "value": "1350 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Years Comprehensive Warranty On Product and 5 Years on Wash Motor",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b910,150",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "Voltas Beko by A Tata Product 14 kg Semi Automatic Top Load Washing Machine Blue, White",
+                "col_18": [
+                    {
+                        "value": "1350 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Years Comprehensive Warranty on Product, 5 Years Warranty on Spin Motor and 10 Years Warranty on Wash Motor",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b916,900",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "SAMSUNG 7 kg 5 star, Ecobubble, Digital Inverter, Fully Automatic Top Load Washing Machine Grey",
+                "col_18": [
+                    {
+                        "value": "700 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 years comprehensive warranty on the product, 20 years warranty on the DIT Motor",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b917,990",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "MarQ by Flipkart 6.5 kg 5 Star rating Semi Automatic Top Load Washing Machine Grey, White",
+                "col_18": [
+                    {
+                        "value": "1350 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Years Comprehensive and 5 Years on Wash Motor from MarQ by Flipkart",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b96,990",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "Intex 6.5 kg With Air Dry Technology, Wave Pulsator Design, Magic Filter Transparent Lid Semi Automati...",
+                "col_18": [
+                    {
+                        "value": "1300 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Years Comprehensive Warranty on Product and 5 Years Warranty on Wash Motor",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b96,790",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "realme TechLife 8.5 kg 5 Star rating Semi Automatic Top Load Washing Machine Grey, Black",
+                "col_18": [
+                    {
+                        "value": "1400 RPM Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Years Comprehensive and 5 Years on Wash Motor",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b99,890",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "Whirlpool 6.5 kg Fully Automatic Top Load Washing Machine with In-built Heater Grey",
+                "col_18": [
+                    {
+                        "value": "740 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "With In-Built Heater",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 Years Comprehensive Warranty on Product and 10 Years Additional Warranty on Motor",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b915,990",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "SAMSUNG 7.5 kg 5 star, Air Turbo Drying Semi Automatic Top Load Washing Machine Blue, Grey",
+                "col_18": [
+                    {
+                        "value": "1300 rpm Max Speed",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "5 Star Rating",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "2 years on product, 5 years on motor",
+                        "tag": "li",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ],
+                "col_19": [
+                    {
+                        "value": "\u20b911,990",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    },
+                    {
+                        "value": "\u20b9",
+                        "tag": "div",
+                        "attribute": null,
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "col_6": "",
+                "col_18": "",
+                "col_19": "",
+                "error": "NO_COLUMNS_EXTRACTED"
+            },
+            {
+                "col_6": "",
+                "col_18": "",
+                "col_19": "",
+                "error": "NO_COLUMNS_EXTRACTED"
+            }
+        ]
+    }
+]
