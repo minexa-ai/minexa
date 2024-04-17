@@ -9,18 +9,19 @@ api_key = "JtAdCU14pFksHYrkKzCiVoNIrKX8ZCbLOmwtCKYQsXx57ivIsP"
 # Your JSON data for the request body
 data = {
     # what part of the page you want to extract - free form - write a descriptive text so that we can better locate the right part of the page
-    "look_for": "Mobile Phones Pricing And features", # what part of the page you want to extract - free form - write a descriptive text so that we can better locate the right part of the page
+    "look_for": "names list", # what part of the page you want to extract - free form - write a descriptive text so that we can better locate the right part of the page
 
     # Provide a single url corresponding to pages with listed data
     "urls":
-    ["https://www.flipkart.com/search?q=smartphones&as=on&as-show=on&otracker=AS_Query_HistoryAutoSuggest_6_0_na_na_na&otracker1=AS_Query_HistoryAutoSuggest_6_0_na_na_na&as-pos=6&as-type=HISTORY&suggestionId=smartphones&requestId=dc094101-2122-4557-bd9f-0358b5669186"], # if you want to extract detail data, we advise not to use a simple domain name but try to find pages that are different.
+    [
+    "https://www.britannica.com/topic/list-of-herbs-and-spices-2024392"
+    ],
 
     # uncomment if you need to recrawl the HTML again from scratch by ignoring cached data (like its the first time you scrape it)
     #"reset": True,
 
-    "xpath": "/html/body/div/div/div[3]/div[1]/div[2]",
+    # "xpath": "/html/body/div/div/div[3]/div[1]/div[2]",
 
-    # if you want to extract detail data, we advise not to use a simple domain name but try to find pages that are different
     "mode": "list" # Choices are list or detail
 }
 

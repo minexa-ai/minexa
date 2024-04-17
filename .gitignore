@@ -139,3 +139,9 @@ GitHub.sublime-settings
 
 #logs folder
 logs/
+
+# Python
+python/extract_data_modified.py
+python/*.json
+python/*.xlsx
+python/*.csv
