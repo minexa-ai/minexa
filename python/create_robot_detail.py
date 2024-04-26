@@ -12,13 +12,13 @@ data = {
     # what part of the page you want to extract - free form - write a descriptive text so that we can better locate the right part of the page
     "look_for": "Features",
 
-    # Provide 4 urls corresponding to pages with similiar structers
-    # if you want to extract detail data, we advise not to use a simple domain name but try to find pages that are different.
+    # Provide 4 urls corresponding to similiarly structured page with different data
     "urls":
     [
-        "https://www.flipkart.com/poco-c55-power-black-64-gb/p/itme567bcd596fe9?pid=MOBGMXSW9PHJVQCA&lid=LSTMOBGMXSW9PHJVQCALTZQ3D&marketplace=FLIPKART&q=smartphones&store=tyy%2F4io&srno=s_1_1&otracker=search&iid=c94adc80-db28-4f7e-b937-89b19b183c9d.MOBGMXSW9PHJVQCA.SEARCH&ssid=pyee4mlzm80000001711995480426&qH=6ea4465d0add4685",
-        "https://www.flipkart.com/vivo-t3-5g-crystal-flake-128-gb/p/itm69b3c5633378f?pid=MOBGYT3VN2J3GM45&lid=LSTMOBGYT3VN2J3GM45SGB0DT&marketplace=FLIPKART&q=smartphones&store=tyy%2F4io&srno=s_1_2&otracker=search&iid=c94adc80-db28-4f7e-b937-89b19b183c9d.MOBGYT3VN2J3GM45.SEARCH&ssid=pyee4mlzm80000001711995480426&qH=6ea4465d0add4685",
-        "https://www.flipkart.com/motorola-g24-power-ink-blue-128-gb/p/itmecab4a01b8aaf?pid=MOBGUFK4UBP7ZTXJ&lid=LSTMOBGUFK4UBP7ZTXJ6TV61J&marketplace=FLIPKART&q=smartphones&store=tyy%2F4io&srno=s_1_3&otracker=search&iid=c94adc80-db28-4f7e-b937-89b19b183c9d.MOBGUFK4UBP7ZTXJ.SEARCH&ssid=pyee4mlzm80000001711995480426&qH=6ea4465d0add4685",        "https://www.flipkart.com/oneplus-nord-ce-3-lite-5g-pastel-lime-128-gb/p/itm2cd5a4e659035?pid=MOBGZJ3WM5SGTGVZ&lid=LSTMOBGZJ3WM5SGTGVZ8XUVDF&marketplace=FLIPKART&q=smartphones&store=tyy%2F4io&srno=s_1_4&otracker=search&iid=c94adc80-db28-4f7e-b937-89b19b183c9d.MOBGZJ3WM5SGTGVZ.SEARCH&ssid=pyee4mlzm80000001711995480426&qH=6ea4465d0add4685"
+        "https://clinicaltrials.gov/study/NCT06382792",
+        "https://clinicaltrials.gov/study/NCT06382779",
+        "https://clinicaltrials.gov/study/NCT06382753",
+        "https://clinicaltrials.gov/study/NCT06382727"
 
      ],
 
