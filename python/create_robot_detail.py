@@ -25,10 +25,12 @@ data = {
     # uncomment if you need to recrawl the HTML again from scratch by ignoring cached data (like its the first time you scrape it)
     #"reset": True,
 
+    # Unocomment and set it when manaully detecting your container after first try
+    # No need to use for creating robot for a particular page for the first time
     # "xpath": "/html/body/div/div/div[3]/div[1]/div[2]",
 
     # if you want to extract detail data, we advise not to use a simple domain name but try to find pages that are different
-    "mode": "detail", # Choices are list or detail
+    "mode": "detail",
 }
 
 headers = {
