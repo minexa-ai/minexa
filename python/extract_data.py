@@ -70,7 +70,7 @@ while next_set or started == 0:
             df = pd.DataFrame(iterated_data)
 
             # Print the DataFrame with borders
-            print(df)
+            print(df.head())
             # Saving the csv
             df.to_csv(f"{file_path}.csv", index=False)
 
