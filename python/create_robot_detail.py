@@ -12,7 +12,7 @@ data = {
     # what part of the page you want to extract - free form - write a descriptive text so that we can better locate the right part of the page
     "look_for": "Features",
 
-    # Provide 4 urls corresponding to similiarly structured page with different data
+    # Provide 4 urls corresponding to a similarly structured page but with different data
     "urls":
     [
         "https://clinicaltrials.gov/study/NCT06382792",
@@ -30,6 +30,7 @@ data = {
     # "xpath": "/html/body/div/div/div[3]/div[1]/div[2]",
 
     # if you want to extract detail data, we advise not to use a simple domain name but try to find pages that are different
+    # Use detail if the data is mixed and in a less structured format.
     "mode": "detail",
 }
 

@@ -24,7 +24,7 @@ data = {
     # No need to use for creating robot for a particular page for the first time
     # "xpath": "/html/body/div/div/div[3]/div[1]/div[2]",
 
-    "mode": "list" # Set it to list for itemeized or listed search results with consistent structure
+    "mode": "list" #  Use list if the data you're scraping is in form of an itemized collection
 }
 
 
