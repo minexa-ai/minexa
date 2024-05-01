@@ -1,7 +1,6 @@
 import json
 import os
 import requests
-from datetime import datetime
 
 url = "https://api.minexa.ai/robot/"
 api_key = "JtAdCU14pFksHYrkKzCiVoNIrKX8ZCbLOmwtCKYQsXx57ivIsP"
