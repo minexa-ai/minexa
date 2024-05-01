@@ -4,8 +4,8 @@
 
 ## Installation
 
-To install the necessary dependencies, use
+To run the PHP scripts provided, run the command
 
-```bash
-nuget restore
+```sh
+composer install
 ```
