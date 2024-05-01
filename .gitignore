@@ -145,3 +145,4 @@ python/extract_data_modified.py
 python/*.json
 python/*.xlsx
 python/*.csv
+javascript/node_modules
