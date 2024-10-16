@@ -61,11 +61,11 @@ while next_set or started == 0:
         try:
 
             # Create and save the file
-            file_path = f"{os.path.dirname(os.path.abspath(__file__))}/exctraction_{formatted_datetime}"
+            file_path = f"{os.path.dirname(os.path.abspath(__file__))}/extraction_{formatted_datetime}"
 
             # Saving in json format
-            with open(f"{file_path}.json", 'w') as file:
-                json.dump(extracted_data, file, indent=4)
+            with open(f"{file_path}.json", 'w', encoding='utf-8') as file:
+                json.dump(extracted_data, file, ensure_ascii=False, indent=4)
 
             df = pd.DataFrame(iterated_data)
 

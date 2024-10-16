@@ -52,8 +52,8 @@ if response.status_code == 200:
     file_path = f"{os.path.dirname(os.path.abspath(__file__))}/robot_id_{robot_id}.json"
 
     # Save the robot.json
-    with open(file_path, 'w') as file:
-        json.dump(response.json(), file, indent=4)
+    with open(file_path, 'w', encoding='utf-8') as file:
+        json.dump(response.json(), file, ensure_ascii=False, indent=4)
 
     print("Full robot json saved at: {}".format(file_path))
 else:
