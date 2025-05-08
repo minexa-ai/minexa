@@ -13,16 +13,27 @@ output_format = "json" #json/csv
 data = {
   "batches": [
     {
-      "scraper_id": 103,
+      "scraper_id": 1389,
       "columns": [
-        "col_1",
-        "col_3"
+        "monthly_rent",
+        "weekly_rent",
+        "agent_name",
+        "available_date",
+        "image_url",
+        "address",
+        "location",
+        "property_type",
+        "property_type_2"
       ],
       "urls": [
-        "https://clinicaltrials.gov/search"
+        "https://www.rightmove.co.uk/properties/160460753#/?channel=RES_LET",
+        "https://www.rightmove.co.uk/properties/133244834#/?channel=RES_LET",
+        "https://www.rightmove.co.uk/properties/161705081#/?channel=RES_LET",
+        "https://www.rightmove.co.uk/properties/161705048#/?channel=RES_LET"
       ]
     }
-  ]
+  ],
+  "threads": 5
 }
 
 headers = {
